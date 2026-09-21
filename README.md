@@ -25,10 +25,10 @@ python -m unittest test_tp_integrador_01_biblioteca.py
 ## Documentación SDD
 
 - [Consigna del trabajo](docs/consigna.md)
-- [Especificación funcional SDD](RFC-Biblioteca.md)
-- [Constitución del producto](Constitucion.md)
-- [Plan de implementación](Plan-Implementacion.md)
-- [Tareas y trazabilidad](Tareas.md)
+- [Especificación funcional SDD](docs/especificacion-sdd.md)
+- [Constitución del producto](docs/constitucion.md)
+- [Plan de implementación](docs/plan-implementacion.md)
+- [Tareas y trazabilidad](docs/tareas.md)
 - [Documento breve de entrega](docs/entrega-breve.md)
 
 ## Transparencia sobre asistencia de IA
