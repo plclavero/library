@@ -24,12 +24,12 @@ python -m unittest test_tp_integrador_01_biblioteca.py
 
 ## Documentación SDD
 
-- [Consigna del trabajo](Consigna.md)
+- [Consigna del trabajo](docs/consigna.md)
 - [Especificación funcional SDD](RFC-Biblioteca.md)
 - [Constitución del producto](Constitucion.md)
 - [Plan de implementación](Plan-Implementacion.md)
 - [Tareas y trazabilidad](Tareas.md)
-- [Documento breve de entrega](Entrega-Breve.md)
+- [Documento breve de entrega](docs/entrega-breve.md)
 
 ## Transparencia sobre asistencia de IA
 El material fue desarrollado mediante colaboración entre una persona humana y Codex. La persona humana definió objetivos, reglas y decisiones finales; Codex asistió en documentación, diseño, pruebas y código. Quien presente el trabajo debe poder explicar el funcionamiento de cada parte.
